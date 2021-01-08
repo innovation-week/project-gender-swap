@@ -5,3 +5,4 @@ env
 .coverage
 /.ipynb_checkpoints/
 .idea
+keras-contrib
